@@ -1,0 +1,41 @@
+div.header {
+    background-color: #DAF1FF;
+    margin: 0 auto 0 auto;
+    width: 60%;
+    padding: 10px;
+    border: 3px solid #B8D0DD;
+}
+div.contentArea {
+    background-color: #B2B298;
+    width: 60%;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+    border-left: 3px solid #707066;
+    border-right: 3px solid #707066;
+    border-bottom: 3px solid #707066;
+}
+div.article {
+    background-color: #FFFFF3;
+    width: 90%;
+    min-height: 75px;
+    margin: 25px auto 25px auto;
+    border-radius: 30px;
+    padding: 10px;
+}
+div.navBar {
+    background-color: black;
+    text-align:right;
+    width: 100%;
+    min-height: 50px;
+}
+h1 {
+    text-align: center;
+    margin: 0px;
+}
+h2 {
+    margin: 0px;
+}
+body {
+    background-color: #B2B2B2;
+}
